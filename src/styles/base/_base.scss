@@ -1,11 +1,15 @@
+* {
+	box-sizing: border-box;
+}
 html {
 	font-size: 62.5% ; //1 rem =  16px. So, 62.5% of 16px = 10px 
-	background-color: lighten(grey, 50%);
 }
 
 body {
+	color: #333333;
 	font-family: 'Helevetica', 'Arial', 'sans-serif';
 	font-size: $m-size;
+	line-height: 1.6;
 }
 
 button {
