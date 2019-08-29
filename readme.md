@@ -1,5 +1,6 @@
 ## Expensify-App
 A hobby project that helps users to keep track of all their expenses at one place. A user can add their expenses , edit and delete it. It also gives them options to filter, sort, add their expenses.
+
 Deployed on Heroku: https://react-expensify-pravin.herokuapp.com
 
 
@@ -35,6 +36,7 @@ For Production add the above key-value pairs as environment variables.
 npm run dev-server
 ```
 *Open [http://localhost:8080]*
+
 **Start Express server**
 ```bash
 npm run build:dev
@@ -48,6 +50,8 @@ npm start
 npm run build:prod
 npm start
 ```
+*Open [http://localhost:3000]*
+
 ## Testing
 ```bash
 npm test
