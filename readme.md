@@ -35,14 +35,14 @@ For Production add the above key-value pairs as environment variables.
 ```bash
 npm run dev-server
 ```
-*Open [http://localhost:8080]*
+*Open [http://localhost:8080](http://localhost:8080)*
 
 **Start Express server**
 ```bash
 npm run build:dev
 npm start
 ```
-*Open [http://localhost:3000]*
+*Open [http://localhost:3000](http://localhost:3000)*
 
 ## Start Production Server
 **Start Express server**
@@ -50,7 +50,7 @@ npm start
 npm run build:prod
 npm start
 ```
-*Open [http://localhost:3000]*
+*Open [http://localhost:3000](http://localhost:3000)*
 
 ## Testing
 ```bash
